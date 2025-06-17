@@ -6,3 +6,6 @@ print(a)
 
 b= 22
 print(b)
+
+c=a+b
+print(c)
